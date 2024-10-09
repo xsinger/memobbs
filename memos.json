@@ -88,16 +88,16 @@
     "avatar": "https://gravatar.memobbs.app/avatar/f65df4d87240feb1cb247857a621a48f?s=80"
   },{
     "creatorName": "L1nSn0w",
-    "website" : "https://blog.linsnow.cn",
+    "website" : "https://linsnow.cn",
     "link" : "https://memos.linsnow.cn",
     "creatorId" : "1",
     "avatar": "https://gravatar.memobbs.app/avatar/9f5d9e5efe3bea0139b12a0fe27100fe?s=80"
   },{
     "creatorName": "老张",
     "website" : "https://laozhang.org",
-    "link" : "https://memos.laozhang.org",
+    "link" : "https://zhangbo.net",
     "creatorId" : "1",
-    "artalk" : "https://artalk.laozhang.org",
+    "artalk" : "https://artalk.zhangbo.net",
     "artSite" : "memos",
     "avatar": "https://gravatar.memobbs.app/avatar/679666f7bd1af3e55f0e51dd70ed161c?s=80"
   },{
@@ -217,7 +217,6 @@
     "creatorName": "Pipu",
     "website": "https://pipuwong.com",
     "link": "https://bb.pipuwong.com",
-    "v1": "memos",
     "creatorId": "1",
     "avatar": "https://gravatar.memobbs.app/avatar/d3af34e32b9a018ed5b467d63beac3ed?size=80",
     "artalk": "https://artalk.pipuwong.com",
@@ -357,6 +356,7 @@
     "creatorName": "明明同学",
     "website" : "https://isming.me",
     "link" : "https://memos.isming.info",
+    "v1":"memos",
     "creatorId" : "1",
     "avatar": "https://seccdn.libravatar.org/avatar/baa1044fea8c14eb58086880ad8ed98d"
   },{
